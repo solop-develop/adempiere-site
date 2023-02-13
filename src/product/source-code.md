@@ -12,7 +12,7 @@ article: false
 
 ![Source Code](/assets/img/product/source-code.png)
 
-## Adempiere Project Repository
+<!-- ## Adempiere Project Repository
 
 The ADempiere main repository can be found in [GitHub](https://github.com/adempiere/adempiere).
 
@@ -103,4 +103,4 @@ To clone a repository over a slow or intermittent Internet connection, try using
   git reset --hard origin/master
 ```
 
-:::
+::: -->

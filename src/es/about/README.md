@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Algo de Historia
 category: Historia
 star: 9
@@ -57,4 +57,4 @@ Es por eso que me atrevo a invitar a todos los interesados ​​en esta propues
 
 Así, en septiembre de 2006, el grupo de integradores anunció la decisión de bifurcarse a un nuevo producto, de distribución totalmente gratuita bajo licencia GPL, lo que asegura que nunca se convertiría en un producto propietario y permanecería siempre libre. El nuevo producto será bautizado con el nombre de ADempiere, palabra italiana que significa "Lograr" y "Alcance" y que se define por la tradición de otros proyectos de software libre. La dirección y administración de ADempiere quedó en manos de la comunidad y sus representantes en la fundación ADEV en Alemania.
 
-Desde 2006, ADempiere se ha convertido en el líder del mundo libre en implementaciones de ERP reportadas en casi 120 países e implementadores que cubren todas las áreas geográficas del mundo mientras que su continuo desarrollo ha enriquecido la funcionalidad de manera permanente.
+Desde 2006, ADempiere se ha convertido en el líder del mundo libre en implementaciones de ERP reportadas en casi 120 países e implementadores que cubren todas las áreas geográficas del mundo mientras que su continuo desarrollo ha enriquecido la funcionalidad de manera permanente. -->

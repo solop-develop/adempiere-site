@@ -16,9 +16,9 @@ The collection includes a number of books covering the main topics of:
 - The official Wiki is in: http://docs.adempiere.io
 - If you need report a bug see: https://github.com/adempiere/adempiere-site/issues
 
-![Discord](https://img.shields.io/discord/876231677209374750)
+<!-- ![Discord](https://img.shields.io/discord/876231677209374750)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adempiere/adempiere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adempiere/adempiere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
 ## Running the docs
 For build it just run `yarn build:vite`, if you want to run all doc just run `yarn dev:vite`, a result after run can be:

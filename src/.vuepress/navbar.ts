@@ -10,12 +10,12 @@ export const enNavbarConfig = navbar([
       { text: "About", icon: "software", link: "", activeMatch: "^/about/$" },
       {
         text: "Some History",
-        children: ["the-beginning", "branding"],
+        children: ["the-beginning-2", "branding-2"],
       },
       {
         text: "Meeting",
         prefix: "meeting/",
-        children: ["berlin-2009", "berlin-2014"],
+        children: ["berlin-2009-2", "berlin-2014-2"],
       },
       {
         text: "Articles",
@@ -46,23 +46,23 @@ export const enNavbarConfig = navbar([
       },
     ],
   },
-  {
-    text: "Community",
-    icon: "group",
-    prefix: "/community/",
-    children: [
-      {
-        text: "Community",
-        icon: "group",
-        link: "",
-        activeMatch: "^/community/$",
-      },
-      {
-        text: "Community",
-        children: ["code-of-conduct", "duties-and-rigths"],
-      },
-    ],
-  },
+  // {
+  //   text: "Community",
+  //   icon: "group",
+  //   prefix: "/community/",
+  //   children: [
+  //     {
+  //       text: "Community",
+  //       icon: "group",
+  //       link: "",
+  //       activeMatch: "^/community/$",
+  //     },
+  //     {
+  //       text: "Community",
+  //       children: ["code-of-conduct", "duties-and-rigths"],
+  //     },
+  //   ],
+  // },
   {
     text: "Documentation",
     icon: "creative",
@@ -155,29 +155,29 @@ export const enNavbarConfig = navbar([
       },
     ],
   },
-  {
-    text: "Foundation",
-    icon: "software",
-    prefix: "/foundation/",
-    children: [
-      {
-        text: "Foundation",
-        icon: "software",
-        link: "",
-        activeMatch: "^/foundation/$",
-      },
-      {
-        text: "How To",
-        children: [
-          "how-to-contribute",
-          "membership",
-          "board",
-          "statutes",
-          "sponsors",
-        ],
-      },
-    ],
-  },
+    // {
+    //   text: "Foundation",
+    //   icon: "software",
+    //   prefix: "/foundation/",
+    //   children: [
+    //     {
+    //       text: "Foundation",
+    //       icon: "software",
+    //       link: "",
+    //       activeMatch: "^/foundation/$",
+    //     },
+    //     {
+    //       text: "How To",
+    //       children: [
+    //         "how-to-contribute",
+    //         "membership",
+    //         "board",
+    //         "statutes",
+    //         "sponsors",
+    //       ],
+    //     },
+    //   ],
+    // },
 ]);
 
 export const zhNavbarConfig = navbar([

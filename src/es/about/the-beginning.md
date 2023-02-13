@@ -1,4 +1,4 @@
----
+<!-- ---
 title: El Comienzo
 category: Historia
 star: 9
@@ -28,4 +28,4 @@ Jörg continuó trabajando para ADV / Orga UNISYS y más tarde con su cliente, u
 
 Para entonces desarrolló un prototipo de Compiere sobre Oracle 5; luego, en 1992, pasó a Oracle Corp. como Gerente de Aplicaciones, y luego asumió como parte del equipo de desarrollo de aplicaciones en Redwood Shores, California (EE. UU.), donde se convirtió en Director de Sistemas Empresariales. Allí lideró el desarrollo de informes de múltiples divisas en Oracle e inventó un asistente de implementación de aplicaciones que acortó drásticamente los tiempos de implementación de aplicaciones. Las aplicaciones de Oracle crecieron a partir de esta plataforma, similar a lo que había hecho SAP con programas similares.
 
-El problema con estas tecnologías era que las funciones "múltiples" se añadían después de que se había desarrollado la aplicación principal. Esto resultó en importantes ineficiencias, costos y demoras. Por otro lado, Jorg sabía que ERP tenía que diseñarse como una solución "múltiple" desde el principio, lo que a su vez resultará en costos mínimos de desarrollo y mantenimiento.
+El problema con estas tecnologías era que las funciones "múltiples" se añadían después de que se había desarrollado la aplicación principal. Esto resultó en importantes ineficiencias, costos y demoras. Por otro lado, Jorg sabía que ERP tenía que diseñarse como una solución "múltiple" desde el principio, lo que a su vez resultará en costos mínimos de desarrollo y mantenimiento. -->

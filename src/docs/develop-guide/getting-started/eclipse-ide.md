@@ -121,7 +121,7 @@ ADempiere can run over Tomcat, Wildfly and Jetty
 ![Add Jars from ADempiere](/assets/img/docs/develop-guide/getting-started/add-jars-from-adempiere.png)
 
 - Repease the previous step for the folders:
-  - `adempiere/tools/lib/discord`
+  <!-- - `adempiere/tools/lib/discord` -->
   - `adempiere/tools/lib/openid`
   - `adempiere/tools/lib/storefront`
   - `adempiere/JasperReportTools/lib`

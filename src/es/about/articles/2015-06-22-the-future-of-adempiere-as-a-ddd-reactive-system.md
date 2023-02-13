@@ -1,4 +1,4 @@
----
+<!-- ---
 title: El futuro de ADempiere como sistema reactivo DDD
 category: Articulos
 star: 9
@@ -112,4 +112,4 @@ Referencias:
 - (8) [http://www.infoq.com/news/2014/10/ddd-onion-architecture](http://www.infoq.com/news/2014/10/ddd-onion-architecture)
 - (9) [http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html](http://blog.8thlight.com/uncle-bob/2012/ 13/08/la-arquitectura-limpia.html)
 - (10) [http://en.wikipedia.org/wiki/Domain-specific_language](http://en.wikipedia.org/wiki/Domain-specific_language)
-- (11) [http://www.reactivemanifesto.org](http://www.reactivemanifesto.org)
+- (11) [http://www.reactivemanifesto.org](http://www.reactivemanifesto.org) -->

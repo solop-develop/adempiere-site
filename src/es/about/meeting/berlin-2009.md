@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Conferencia Berlin 2009
 icon: fecha
 category: Base
@@ -25,4 +25,4 @@ Para involucrar a todos en otro encuentro personal, la 2ª conferencia europea A
 
 La conferencia se centrará en las mejoras técnicas de ADempiere y en la optimización de la estructura social de la comunidad de ADempiere para tener aún más éxito en términos de desarrollo y distribución.
 
-En total, utilizaremos el fin de semana para intercambiar experiencias personales con el software, así como para mejorar la documentación, el código y la localización, ¡y por supuesto para divertirnos mucho!
+En total, utilizaremos el fin de semana para intercambiar experiencias personales con el software, así como para mejorar la documentación, el código y la localización, ¡y por supuesto para divertirnos mucho! -->

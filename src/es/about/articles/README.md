@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Acerca de los anuncios
 icon: blog
 category: Artículos
@@ -11,4 +11,4 @@ tag:
 article: false
 ---
 
-Un blog completo con algunos artículos creados por colaboradores de ADempiere
+Un blog completo con algunos artículos creados por colaboradores de ADempiere -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Anuncio mundial del nuevo y mejorado portal de contenido de ADempiere
 category: Articulos
 star: 9
@@ -45,4 +45,4 @@ Víctor Pérez Juárez
 
 Fundador de ADempiere
 
-En nombre de la Comunidad de ADempiere
+En nombre de la Comunidad de ADempiere -->

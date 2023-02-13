@@ -1,4 +1,4 @@
----
+<!-- ---
 titulo: Conferencia Berlin 2014
 icon: date
 categoria: Base
@@ -33,4 +33,4 @@ Podemos decir por el rápido aumento del número de participantes internacionale
 
 Otro punto de la agenda de la Conferencia Mundial es la asamblea general de la asociación y la elección de un nuevo presidente.
 
-Por supuesto, el fin de semana también se utilizará para incorporar eventos sociales para conocernos más e intercambiar conocimientos y experiencias.
+Por supuesto, el fin de semana también se utilizará para incorporar eventos sociales para conocernos más e intercambiar conocimientos y experiencias. -->
